@@ -1,0 +1,4 @@
+*.zip
+staging/
+.venv/
+__pycache__/
